@@ -1,7 +1,7 @@
 
 **To-Do App**
 
-Welcome to the To-Do App! This application allows you to manage your daily tasks efficiently. With this app, you can add, edit, delete, and mark tasks as completed.
+Welcome to the To-Do App! This application allows you to manage your daily tasks efficiently. With this app, you can add, delete, and mark tasks as completed.
 
 Live Demo
 Check out the live demo of the app here https://shifaafreen-todo.netlify.app/
