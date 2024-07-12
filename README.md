@@ -26,4 +26,4 @@ JavaScript
 HTML
 
 **Contributing**
-Contributions are welcome! If you'd like to contribute, please follow these steps:
+Contributions are welcome!
